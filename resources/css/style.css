@@ -54,7 +54,7 @@ h1 {
 }
 
 .btn-full:link,
-.btn-full:visted {
+.btn-full:visited {
   background-color: #e67e22;
   border: 1px solid #e67e22;
   color: #fff;
@@ -64,4 +64,9 @@ h1 {
 .btn-ghost:visited {
   border: 1px solid #e67e22;
   color: #e67e22;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #c46d17;
 }
