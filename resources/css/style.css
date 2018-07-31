@@ -70,3 +70,14 @@ h1 {
 .btn:active {
   background-color: #c46d17;
 }
+
+.btn-full:hover,
+.btn-full:active {
+  border: 1px solid #c46d17;
+}
+
+.btn-ghost:hover,
+.btn-ghost:active {
+  border: 1px solid #c46d17;
+  color: #fff;
+}
