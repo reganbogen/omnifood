@@ -252,3 +252,7 @@ header {
 .steps-box:last-child {
   padding-left: 3%;
 }
+
+.app-screen {
+  width: 40%;
+}
