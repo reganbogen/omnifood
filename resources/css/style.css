@@ -65,6 +65,13 @@ h2:after {
   margin-top: 30px;
 }
 
+/*----------PARAGRAPHS----------*/
+.long-copy {
+  line-height: 145%;
+  width: 70%;
+  margin-left: 15%;
+}
+
 /* ----------BUTTONS------------*/
 
 .btn:link,
