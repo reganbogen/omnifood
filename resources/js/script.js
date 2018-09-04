@@ -6,6 +6,8 @@ $(document).ready(function() {
     } else {
       $('nav').removeClass('sticky');
     }
+  }, {
+    offset: '60px;'
   });
 
   
